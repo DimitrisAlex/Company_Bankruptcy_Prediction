@@ -1,5 +1,5 @@
-![](./img/logo_small.png)
-![](./img/derby.png)
+![](./logo_small.png)
+![](./derby.png)
 
 ## Mediterranean College | University of Derby
 ### MSc Big Data Analysis
