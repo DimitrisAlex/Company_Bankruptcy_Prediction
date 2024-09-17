@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <th>Title</th>
-        <td><em>...</em></td>
+        <td><em>Company Prediction Bankruptcy using Machine Learning Applications and Financial Ratios</em></td>
     </tr>
     <tr>
         <th>Student</th>
